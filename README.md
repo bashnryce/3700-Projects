@@ -1,4 +1,7 @@
-This repository contains all the assignments for ECE 3700. It is updated periodically. 
+This is my personal copy of the ECE3700 assignments REPO with all my work included verilog source and testbench files
+
+All notes below this line were a part of the original repository and are intended as instructions for new students
+This repository contains all the assignments for ECE 3700. 
 
 File list (root directory):
 

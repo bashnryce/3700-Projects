@@ -1,0 +1,1280 @@
+Address 00
+	1: d_in = 24 d_out = 24  <-- write then read
+	2: d_in = 81 d_out = 24  <-- write/read simultaneous
+	3: d_in = 81 d_out = 81  <-- read
+
+Address 01
+	1: d_in = 09 d_out = 09  <-- write then read
+	2: d_in = 63 d_out = 09  <-- write/read simultaneous
+	3: d_in = 63 d_out = 63  <-- read
+
+Address 02
+	1: d_in = 0d d_out = 0d  <-- write then read
+	2: d_in = 8d d_out = 0d  <-- write/read simultaneous
+	3: d_in = 8d d_out = 8d  <-- read
+
+Address 03
+	1: d_in = 65 d_out = 65  <-- write then read
+	2: d_in = 12 d_out = 65  <-- write/read simultaneous
+	3: d_in = 12 d_out = 12  <-- read
+
+Address 04
+	1: d_in = 01 d_out = 01  <-- write then read
+	2: d_in = 0d d_out = 01  <-- write/read simultaneous
+	3: d_in = 0d d_out = 0d  <-- read
+
+Address 05
+	1: d_in = 76 d_out = 76  <-- write then read
+	2: d_in = 3d d_out = 76  <-- write/read simultaneous
+	3: d_in = 3d d_out = 3d  <-- read
+
+Address 06
+	1: d_in = ed d_out = ed  <-- write then read
+	2: d_in = 8c d_out = ed  <-- write/read simultaneous
+	3: d_in = 8c d_out = 8c  <-- read
+
+Address 07
+	1: d_in = f9 d_out = f9  <-- write then read
+	2: d_in = c6 d_out = f9  <-- write/read simultaneous
+	3: d_in = c6 d_out = c6  <-- read
+
+Address 08
+	1: d_in = c5 d_out = c5  <-- write then read
+	2: d_in = aa d_out = c5  <-- write/read simultaneous
+	3: d_in = aa d_out = aa  <-- read
+
+Address 09
+	1: d_in = e5 d_out = e5  <-- write then read
+	2: d_in = 77 d_out = e5  <-- write/read simultaneous
+	3: d_in = 77 d_out = 77  <-- read
+
+Address 0a
+	1: d_in = 12 d_out = 12  <-- write then read
+	2: d_in = 8f d_out = 12  <-- write/read simultaneous
+	3: d_in = 8f d_out = 8f  <-- read
+
+Address 0b
+	1: d_in = f2 d_out = f2  <-- write then read
+	2: d_in = ce d_out = f2  <-- write/read simultaneous
+	3: d_in = ce d_out = ce  <-- read
+
+Address 0c
+	1: d_in = e8 d_out = e8  <-- write then read
+	2: d_in = c5 d_out = e8  <-- write/read simultaneous
+	3: d_in = c5 d_out = c5  <-- read
+
+Address 0d
+	1: d_in = 5c d_out = 5c  <-- write then read
+	2: d_in = bd d_out = 5c  <-- write/read simultaneous
+	3: d_in = bd d_out = bd  <-- read
+
+Address 0e
+	1: d_in = 2d d_out = 2d  <-- write then read
+	2: d_in = 65 d_out = 2d  <-- write/read simultaneous
+	3: d_in = 65 d_out = 65  <-- read
+
+Address 0f
+	1: d_in = 63 d_out = 63  <-- write then read
+	2: d_in = 0a d_out = 63  <-- write/read simultaneous
+	3: d_in = 0a d_out = 0a  <-- read
+
+Address 10
+	1: d_in = 80 d_out = 80  <-- write then read
+	2: d_in = 20 d_out = 80  <-- write/read simultaneous
+	3: d_in = 20 d_out = 20  <-- read
+
+Address 11
+	1: d_in = aa d_out = aa  <-- write then read
+	2: d_in = 9d d_out = aa  <-- write/read simultaneous
+	3: d_in = 9d d_out = 9d  <-- read
+
+Address 12
+	1: d_in = 96 d_out = 96  <-- write then read
+	2: d_in = 13 d_out = 96  <-- write/read simultaneous
+	3: d_in = 13 d_out = 13  <-- read
+
+Address 13
+	1: d_in = 0d d_out = 0d  <-- write then read
+	2: d_in = 53 d_out = 0d  <-- write/read simultaneous
+	3: d_in = 53 d_out = 53  <-- read
+
+Address 14
+	1: d_in = 6b d_out = 6b  <-- write then read
+	2: d_in = d5 d_out = 6b  <-- write/read simultaneous
+	3: d_in = d5 d_out = d5  <-- read
+
+Address 15
+	1: d_in = 02 d_out = 02  <-- write then read
+	2: d_in = ae d_out = 02  <-- write/read simultaneous
+	3: d_in = ae d_out = ae  <-- read
+
+Address 16
+	1: d_in = 1d d_out = 1d  <-- write then read
+	2: d_in = cf d_out = 1d  <-- write/read simultaneous
+	3: d_in = cf d_out = cf  <-- read
+
+Address 17
+	1: d_in = 23 d_out = 23  <-- write then read
+	2: d_in = 0a d_out = 23  <-- write/read simultaneous
+	3: d_in = 0a d_out = 0a  <-- read
+
+Address 18
+	1: d_in = ca d_out = ca  <-- write then read
+	2: d_in = 3c d_out = ca  <-- write/read simultaneous
+	3: d_in = 3c d_out = 3c  <-- read
+
+Address 19
+	1: d_in = f2 d_out = f2  <-- write then read
+	2: d_in = 8a d_out = f2  <-- write/read simultaneous
+	3: d_in = 8a d_out = 8a  <-- read
+
+Address 1a
+	1: d_in = 41 d_out = 41  <-- write then read
+	2: d_in = d8 d_out = 41  <-- write/read simultaneous
+	3: d_in = d8 d_out = d8  <-- read
+
+Address 1b
+	1: d_in = 78 d_out = 78  <-- write then read
+	2: d_in = 89 d_out = 78  <-- write/read simultaneous
+	3: d_in = 89 d_out = 89  <-- read
+
+Address 1c
+	1: d_in = eb d_out = eb  <-- write then read
+	2: d_in = b6 d_out = eb  <-- write/read simultaneous
+	3: d_in = b6 d_out = b6  <-- read
+
+Address 1d
+	1: d_in = c6 d_out = c6  <-- write then read
+	2: d_in = ae d_out = c6  <-- write/read simultaneous
+	3: d_in = ae d_out = ae  <-- read
+
+Address 1e
+	1: d_in = bc d_out = bc  <-- write then read
+	2: d_in = 2a d_out = bc  <-- write/read simultaneous
+	3: d_in = 2a d_out = 2a  <-- read
+
+Address 1f
+	1: d_in = 0b d_out = 0b  <-- write then read
+	2: d_in = 71 d_out = 0b  <-- write/read simultaneous
+	3: d_in = 71 d_out = 71  <-- read
+
+Address 20
+	1: d_in = 85 d_out = 85  <-- write then read
+	2: d_in = 4f d_out = 85  <-- write/read simultaneous
+	3: d_in = 4f d_out = 4f  <-- read
+
+Address 21
+	1: d_in = 3b d_out = 3b  <-- write then read
+	2: d_in = 3a d_out = 3b  <-- write/read simultaneous
+	3: d_in = 3a d_out = 3a  <-- read
+
+Address 22
+	1: d_in = 7e d_out = 7e  <-- write then read
+	2: d_in = 15 d_out = 7e  <-- write/read simultaneous
+	3: d_in = 15 d_out = 15  <-- read
+
+Address 23
+	1: d_in = f1 d_out = f1  <-- write then read
+	2: d_in = d9 d_out = f1  <-- write/read simultaneous
+	3: d_in = d9 d_out = d9  <-- read
+
+Address 24
+	1: d_in = 62 d_out = 62  <-- write then read
+	2: d_in = 4c d_out = 62  <-- write/read simultaneous
+	3: d_in = 4c d_out = 4c  <-- read
+
+Address 25
+	1: d_in = 9f d_out = 9f  <-- write then read
+	2: d_in = 8f d_out = 9f  <-- write/read simultaneous
+	3: d_in = 8f d_out = 8f  <-- read
+
+Address 26
+	1: d_in = f8 d_out = f8  <-- write then read
+	2: d_in = b7 d_out = f8  <-- write/read simultaneous
+	3: d_in = b7 d_out = b7  <-- read
+
+Address 27
+	1: d_in = 9f d_out = 9f  <-- write then read
+	2: d_in = 5c d_out = 9f  <-- write/read simultaneous
+	3: d_in = 5c d_out = 5c  <-- read
+
+Address 28
+	1: d_in = 5b d_out = 5b  <-- write then read
+	2: d_in = 89 d_out = 5b  <-- write/read simultaneous
+	3: d_in = 89 d_out = 89  <-- read
+
+Address 29
+	1: d_in = 49 d_out = 49  <-- write then read
+	2: d_in = d0 d_out = 49  <-- write/read simultaneous
+	3: d_in = d0 d_out = d0  <-- read
+
+Address 2a
+	1: d_in = d7 d_out = d7  <-- write then read
+	2: d_in = 51 d_out = d7  <-- write/read simultaneous
+	3: d_in = 51 d_out = 51  <-- read
+
+Address 2b
+	1: d_in = 96 d_out = 96  <-- write then read
+	2: d_in = 0c d_out = 96  <-- write/read simultaneous
+	3: d_in = 0c d_out = 0c  <-- read
+
+Address 2c
+	1: d_in = c2 d_out = c2  <-- write then read
+	2: d_in = c8 d_out = c2  <-- write/read simultaneous
+	3: d_in = c8 d_out = c8  <-- read
+
+Address 2d
+	1: d_in = 77 d_out = 77  <-- write then read
+	2: d_in = 3d d_out = 77  <-- write/read simultaneous
+	3: d_in = 3d d_out = 3d  <-- read
+
+Address 2e
+	1: d_in = 12 d_out = 12  <-- write then read
+	2: d_in = 7e d_out = 12  <-- write/read simultaneous
+	3: d_in = 7e d_out = 7e  <-- read
+
+Address 2f
+	1: d_in = 6d d_out = 6d  <-- write then read
+	2: d_in = 39 d_out = 6d  <-- write/read simultaneous
+	3: d_in = 39 d_out = 39  <-- read
+
+Address 30
+	1: d_in = 1f d_out = 1f  <-- write then read
+	2: d_in = d3 d_out = 1f  <-- write/read simultaneous
+	3: d_in = d3 d_out = d3  <-- read
+
+Address 31
+	1: d_in = 85 d_out = 85  <-- write then read
+	2: d_in = 78 d_out = 85  <-- write/read simultaneous
+	3: d_in = 78 d_out = 78  <-- read
+
+Address 32
+	1: d_in = 5b d_out = 5b  <-- write then read
+	2: d_in = 49 d_out = 5b  <-- write/read simultaneous
+	3: d_in = 49 d_out = 49  <-- read
+
+Address 33
+	1: d_in = 3f d_out = 3f  <-- write then read
+	2: d_in = 2a d_out = 3f  <-- write/read simultaneous
+	3: d_in = 2a d_out = 2a  <-- read
+
+Address 34
+	1: d_in = 58 d_out = 58  <-- write then read
+	2: d_in = 86 d_out = 58  <-- write/read simultaneous
+	3: d_in = 86 d_out = 86  <-- read
+
+Address 35
+	1: d_in = 8e d_out = 8e  <-- write then read
+	2: d_in = 9c d_out = 8e  <-- write/read simultaneous
+	3: d_in = 9c d_out = 9c  <-- read
+
+Address 36
+	1: d_in = fa d_out = fa  <-- write then read
+	2: d_in = 26 d_out = fa  <-- write/read simultaneous
+	3: d_in = 26 d_out = 26  <-- read
+
+Address 37
+	1: d_in = 73 d_out = 73  <-- write then read
+	2: d_in = a3 d_out = 73  <-- write/read simultaneous
+	3: d_in = a3 d_out = a3  <-- read
+
+Address 38
+	1: d_in = 2f d_out = 2f  <-- write then read
+	2: d_in = b3 d_out = 2f  <-- write/read simultaneous
+	3: d_in = b3 d_out = b3  <-- read
+
+Address 39
+	1: d_in = 5f d_out = 5f  <-- write then read
+	2: d_in = 44 d_out = 5f  <-- write/read simultaneous
+	3: d_in = 44 d_out = 44  <-- read
+
+Address 3a
+	1: d_in = f7 d_out = f7  <-- write then read
+	2: d_in = cb d_out = f7  <-- write/read simultaneous
+	3: d_in = cb d_out = cb  <-- read
+
+Address 3b
+	1: d_in = e6 d_out = e6  <-- write then read
+	2: d_in = 5a d_out = e6  <-- write/read simultaneous
+	3: d_in = 5a d_out = 5a  <-- read
+
+Address 3c
+	1: d_in = 29 d_out = 29  <-- write then read
+	2: d_in = ed d_out = 29  <-- write/read simultaneous
+	3: d_in = ed d_out = ed  <-- read
+
+Address 3d
+	1: d_in = da d_out = da  <-- write then read
+	2: d_in = 65 d_out = da  <-- write/read simultaneous
+	3: d_in = 65 d_out = 65  <-- read
+
+Address 3e
+	1: d_in = b5 d_out = b5  <-- write then read
+	2: d_in = df d_out = b5  <-- write/read simultaneous
+	3: d_in = df d_out = df  <-- read
+
+Address 3f
+	1: d_in = 79 d_out = 79  <-- write then read
+	2: d_in = 44 d_out = 79  <-- write/read simultaneous
+	3: d_in = 44 d_out = 44  <-- read
+
+Address 40
+	1: d_in = d0 d_out = d0  <-- write then read
+	2: d_in = 2a d_out = d0  <-- write/read simultaneous
+	3: d_in = 2a d_out = 2a  <-- read
+
+Address 41
+	1: d_in = ab d_out = ab  <-- write then read
+	2: d_in = 0e d_out = ab  <-- write/read simultaneous
+	3: d_in = 0e d_out = 0e  <-- read
+
+Address 42
+	1: d_in = dc d_out = dc  <-- write then read
+	2: d_in = 9a d_out = dc  <-- write/read simultaneous
+	3: d_in = 9a d_out = 9a  <-- read
+
+Address 43
+	1: d_in = fd d_out = fd  <-- write then read
+	2: d_in = c3 d_out = fd  <-- write/read simultaneous
+	3: d_in = c3 d_out = c3  <-- read
+
+Address 44
+	1: d_in = 56 d_out = 56  <-- write then read
+	2: d_in = 4e d_out = 56  <-- write/read simultaneous
+	3: d_in = 4e d_out = 4e  <-- read
+
+Address 45
+	1: d_in = 67 d_out = 67  <-- write then read
+	2: d_in = 0a d_out = 67  <-- write/read simultaneous
+	3: d_in = 0a d_out = 0a  <-- read
+
+Address 46
+	1: d_in = b6 d_out = b6  <-- write then read
+	2: d_in = 38 d_out = b6  <-- write/read simultaneous
+	3: d_in = 38 d_out = 38  <-- read
+
+Address 47
+	1: d_in = 79 d_out = 79  <-- write then read
+	2: d_in = b8 d_out = 79  <-- write/read simultaneous
+	3: d_in = b8 d_out = b8  <-- read
+
+Address 48
+	1: d_in = 94 d_out = 94  <-- write then read
+	2: d_in = 93 d_out = 94  <-- write/read simultaneous
+	3: d_in = 93 d_out = 93  <-- read
+
+Address 49
+	1: d_in = 04 d_out = 04  <-- write then read
+	2: d_in = 59 d_out = 04  <-- write/read simultaneous
+	3: d_in = 59 d_out = 59  <-- read
+
+Address 4a
+	1: d_in = db d_out = db  <-- write then read
+	2: d_in = 4d d_out = db  <-- write/read simultaneous
+	3: d_in = 4d d_out = 4d  <-- read
+
+Address 4b
+	1: d_in = d9 d_out = d9  <-- write then read
+	2: d_in = 6d d_out = d9  <-- write/read simultaneous
+	3: d_in = 6d d_out = 6d  <-- read
+
+Address 4c
+	1: d_in = 76 d_out = 76  <-- write then read
+	2: d_in = ca d_out = 76  <-- write/read simultaneous
+	3: d_in = ca d_out = ca  <-- read
+
+Address 4d
+	1: d_in = b6 d_out = b6  <-- write then read
+	2: d_in = 95 d_out = b6  <-- write/read simultaneous
+	3: d_in = 95 d_out = 95  <-- read
+
+Address 4e
+	1: d_in = 46 d_out = 46  <-- write then read
+	2: d_in = 04 d_out = 46  <-- write/read simultaneous
+	3: d_in = 04 d_out = 04  <-- read
+
+Address 4f
+	1: d_in = f7 d_out = f7  <-- write then read
+	2: d_in = 69 d_out = f7  <-- write/read simultaneous
+	3: d_in = 69 d_out = 69  <-- read
+
+Address 50
+	1: d_in = b4 d_out = b4  <-- write then read
+	2: d_in = 88 d_out = b4  <-- write/read simultaneous
+	3: d_in = 88 d_out = 88  <-- read
+
+Address 51
+	1: d_in = 28 d_out = 28  <-- write then read
+	2: d_in = 2d d_out = 28  <-- write/read simultaneous
+	3: d_in = 2d d_out = 2d  <-- read
+
+Address 52
+	1: d_in = c7 d_out = c7  <-- write then read
+	2: d_in = 2e d_out = c7  <-- write/read simultaneous
+	3: d_in = 2e d_out = 2e  <-- read
+
+Address 53
+	1: d_in = 08 d_out = 08  <-- write then read
+	2: d_in = 1c d_out = 08  <-- write/read simultaneous
+	3: d_in = 1c d_out = 1c  <-- read
+
+Address 54
+	1: d_in = fd d_out = fd  <-- write then read
+	2: d_in = 29 d_out = fd  <-- write/read simultaneous
+	3: d_in = 29 d_out = 29  <-- read
+
+Address 55
+	1: d_in = 1c d_out = 1c  <-- write then read
+	2: d_in = 86 d_out = 1c  <-- write/read simultaneous
+	3: d_in = 86 d_out = 86  <-- read
+
+Address 56
+	1: d_in = da d_out = da  <-- write then read
+	2: d_in = 3d d_out = da  <-- write/read simultaneous
+	3: d_in = 3d d_out = 3d  <-- read
+
+Address 57
+	1: d_in = 66 d_out = 66  <-- write then read
+	2: d_in = 70 d_out = 66  <-- write/read simultaneous
+	3: d_in = 70 d_out = 70  <-- read
+
+Address 58
+	1: d_in = 73 d_out = 73  <-- write then read
+	2: d_in = ba d_out = 73  <-- write/read simultaneous
+	3: d_in = ba d_out = ba  <-- read
+
+Address 59
+	1: d_in = 5e d_out = 5e  <-- write then read
+	2: d_in = fa d_out = 5e  <-- write/read simultaneous
+	3: d_in = fa d_out = fa  <-- read
+
+Address 5a
+	1: d_in = d5 d_out = d5  <-- write then read
+	2: d_in = 1a d_out = d5  <-- write/read simultaneous
+	3: d_in = 1a d_out = 1a  <-- read
+
+Address 5b
+	1: d_in = b9 d_out = b9  <-- write then read
+	2: d_in = 37 d_out = b9  <-- write/read simultaneous
+	3: d_in = 37 d_out = 37  <-- read
+
+Address 5c
+	1: d_in = 96 d_out = 96  <-- write then read
+	2: d_in = c0 d_out = 96  <-- write/read simultaneous
+	3: d_in = c0 d_out = c0  <-- read
+
+Address 5d
+	1: d_in = 26 d_out = 26  <-- write then read
+	2: d_in = b6 d_out = 26  <-- write/read simultaneous
+	3: d_in = b6 d_out = b6  <-- read
+
+Address 5e
+	1: d_in = 7d d_out = 7d  <-- write then read
+	2: d_in = dc d_out = 7d  <-- write/read simultaneous
+	3: d_in = dc d_out = dc  <-- read
+
+Address 5f
+	1: d_in = 86 d_out = 86  <-- write then read
+	2: d_in = 78 d_out = 86  <-- write/read simultaneous
+	3: d_in = 78 d_out = 78  <-- read
+
+Address 60
+	1: d_in = 7e d_out = 7e  <-- write then read
+	2: d_in = db d_out = 7e  <-- write/read simultaneous
+	3: d_in = db d_out = db  <-- read
+
+Address 61
+	1: d_in = cf d_out = cf  <-- write then read
+	2: d_in = 79 d_out = cf  <-- write/read simultaneous
+	3: d_in = 79 d_out = 79  <-- read
+
+Address 62
+	1: d_in = fa d_out = fa  <-- write then read
+	2: d_in = 61 d_out = fa  <-- write/read simultaneous
+	3: d_in = 61 d_out = 61  <-- read
+
+Address 63
+	1: d_in = 17 d_out = 17  <-- write then read
+	2: d_in = a1 d_out = 17  <-- write/read simultaneous
+	3: d_in = a1 d_out = a1  <-- read
+
+Address 64
+	1: d_in = 86 d_out = 86  <-- write then read
+	2: d_in = 50 d_out = 86  <-- write/read simultaneous
+	3: d_in = 50 d_out = 50  <-- read
+
+Address 65
+	1: d_in = f5 d_out = f5  <-- write then read
+	2: d_in = 35 d_out = f5  <-- write/read simultaneous
+	3: d_in = 35 d_out = 35  <-- read
+
+Address 66
+	1: d_in = 29 d_out = 29  <-- write then read
+	2: d_in = c1 d_out = 29  <-- write/read simultaneous
+	3: d_in = c1 d_out = c1  <-- read
+
+Address 67
+	1: d_in = c5 d_out = c5  <-- write then read
+	2: d_in = 98 d_out = c5  <-- write/read simultaneous
+	3: d_in = 98 d_out = 98  <-- read
+
+Address 68
+	1: d_in = 4b d_out = 4b  <-- write then read
+	2: d_in = 73 d_out = 4b  <-- write/read simultaneous
+	3: d_in = 73 d_out = 73  <-- read
+
+Address 69
+	1: d_in = ec d_out = ec  <-- write then read
+	2: d_in = 8a d_out = ec  <-- write/read simultaneous
+	3: d_in = 8a d_out = 8a  <-- read
+
+Address 6a
+	1: d_in = 4e d_out = 4e  <-- write then read
+	2: d_in = a8 d_out = 4e  <-- write/read simultaneous
+	3: d_in = a8 d_out = a8  <-- read
+
+Address 6b
+	1: d_in = a9 d_out = a9  <-- write then read
+	2: d_in = a1 d_out = a9  <-- write/read simultaneous
+	3: d_in = a1 d_out = a1  <-- read
+
+Address 6c
+	1: d_in = 0e d_out = 0e  <-- write then read
+	2: d_in = e6 d_out = 0e  <-- write/read simultaneous
+	3: d_in = e6 d_out = e6  <-- read
+
+Address 6d
+	1: d_in = 9f d_out = 9f  <-- write then read
+	2: d_in = 2a d_out = 9f  <-- write/read simultaneous
+	3: d_in = 2a d_out = 2a  <-- read
+
+Address 6e
+	1: d_in = 2a d_out = 2a  <-- write then read
+	2: d_in = 8d d_out = 2a  <-- write/read simultaneous
+	3: d_in = 8d d_out = 8d  <-- read
+
+Address 6f
+	1: d_in = 9e d_out = 9e  <-- write then read
+	2: d_in = 38 d_out = 9e  <-- write/read simultaneous
+	3: d_in = 38 d_out = 38  <-- read
+
+Address 70
+	1: d_in = 79 d_out = 79  <-- write then read
+	2: d_in = c8 d_out = 79  <-- write/read simultaneous
+	3: d_in = c8 d_out = c8  <-- read
+
+Address 71
+	1: d_in = ca d_out = ca  <-- write then read
+	2: d_in = 13 d_out = ca  <-- write/read simultaneous
+	3: d_in = 13 d_out = 13  <-- read
+
+Address 72
+	1: d_in = 6b d_out = 6b  <-- write then read
+	2: d_in = c7 d_out = 6b  <-- write/read simultaneous
+	3: d_in = c7 d_out = c7  <-- read
+
+Address 73
+	1: d_in = b6 d_out = b6  <-- write then read
+	2: d_in = ba d_out = b6  <-- write/read simultaneous
+	3: d_in = ba d_out = ba  <-- read
+
+Address 74
+	1: d_in = c4 d_out = c4  <-- write then read
+	2: d_in = b9 d_out = c4  <-- write/read simultaneous
+	3: d_in = b9 d_out = b9  <-- read
+
+Address 75
+	1: d_in = 92 d_out = 92  <-- write then read
+	2: d_in = b4 d_out = 92  <-- write/read simultaneous
+	3: d_in = b4 d_out = b4  <-- read
+
+Address 76
+	1: d_in = 7f d_out = 7f  <-- write then read
+	2: d_in = 86 d_out = 7f  <-- write/read simultaneous
+	3: d_in = 86 d_out = 86  <-- read
+
+Address 77
+	1: d_in = fa d_out = fa  <-- write then read
+	2: d_in = f2 d_out = fa  <-- write/read simultaneous
+	3: d_in = f2 d_out = f2  <-- read
+
+Address 78
+	1: d_in = 32 d_out = 32  <-- write then read
+	2: d_in = bd d_out = 32  <-- write/read simultaneous
+	3: d_in = bd d_out = bd  <-- read
+
+Address 79
+	1: d_in = 84 d_out = 84  <-- write then read
+	2: d_in = e4 d_out = 84  <-- write/read simultaneous
+	3: d_in = e4 d_out = e4  <-- read
+
+Address 7a
+	1: d_in = ca d_out = ca  <-- write then read
+	2: d_in = a9 d_out = ca  <-- write/read simultaneous
+	3: d_in = a9 d_out = a9  <-- read
+
+Address 7b
+	1: d_in = a1 d_out = a1  <-- write then read
+	2: d_in = 8e d_out = a1  <-- write/read simultaneous
+	3: d_in = 8e d_out = 8e  <-- read
+
+Address 7c
+	1: d_in = fb d_out = fb  <-- write then read
+	2: d_in = 0b d_out = fb  <-- write/read simultaneous
+	3: d_in = 0b d_out = 0b  <-- read
+
+Address 7d
+	1: d_in = ef d_out = ef  <-- write then read
+	2: d_in = c9 d_out = ef  <-- write/read simultaneous
+	3: d_in = c9 d_out = c9  <-- read
+
+Address 7e
+	1: d_in = 36 d_out = 36  <-- write then read
+	2: d_in = 75 d_out = 36  <-- write/read simultaneous
+	3: d_in = 75 d_out = 75  <-- read
+
+Address 7f
+	1: d_in = 8f d_out = 8f  <-- write then read
+	2: d_in = 6b d_out = 8f  <-- write/read simultaneous
+	3: d_in = 6b d_out = 6b  <-- read
+
+Address 80
+	1: d_in = 88 d_out = 88  <-- write then read
+	2: d_in = ae d_out = 88  <-- write/read simultaneous
+	3: d_in = ae d_out = ae  <-- read
+
+Address 81
+	1: d_in = 9b d_out = 9b  <-- write then read
+	2: d_in = 92 d_out = 9b  <-- write/read simultaneous
+	3: d_in = 92 d_out = 92  <-- read
+
+Address 82
+	1: d_in = 28 d_out = 28  <-- write then read
+	2: d_in = 2d d_out = 28  <-- write/read simultaneous
+	3: d_in = 2d d_out = 2d  <-- read
+
+Address 83
+	1: d_in = 4b d_out = 4b  <-- write then read
+	2: d_in = c2 d_out = 4b  <-- write/read simultaneous
+	3: d_in = c2 d_out = c2  <-- read
+
+Address 84
+	1: d_in = 1e d_out = 1e  <-- write then read
+	2: d_in = 0d d_out = 1e  <-- write/read simultaneous
+	3: d_in = 0d d_out = 0d  <-- read
+
+Address 85
+	1: d_in = ec d_out = ec  <-- write then read
+	2: d_in = 18 d_out = ec  <-- write/read simultaneous
+	3: d_in = 18 d_out = 18  <-- read
+
+Address 86
+	1: d_in = d1 d_out = d1  <-- write then read
+	2: d_in = 86 d_out = d1  <-- write/read simultaneous
+	3: d_in = 86 d_out = 86  <-- read
+
+Address 87
+	1: d_in = 41 d_out = 41  <-- write then read
+	2: d_in = 3b d_out = 41  <-- write/read simultaneous
+	3: d_in = 3b d_out = 3b  <-- read
+
+Address 88
+	1: d_in = d8 d_out = d8  <-- write then read
+	2: d_in = 53 d_out = d8  <-- write/read simultaneous
+	3: d_in = 53 d_out = 53  <-- read
+
+Address 89
+	1: d_in = 56 d_out = 56  <-- write then read
+	2: d_in = 5b d_out = 56  <-- write/read simultaneous
+	3: d_in = 5b d_out = 5b  <-- read
+
+Address 8a
+	1: d_in = e2 d_out = e2  <-- write then read
+	2: d_in = 04 d_out = e2  <-- write/read simultaneous
+	3: d_in = 04 d_out = 04  <-- read
+
+Address 8b
+	1: d_in = 73 d_out = 73  <-- write then read
+	2: d_in = d8 d_out = 73  <-- write/read simultaneous
+	3: d_in = d8 d_out = d8  <-- read
+
+Address 8c
+	1: d_in = 12 d_out = 12  <-- write then read
+	2: d_in = b8 d_out = 12  <-- write/read simultaneous
+	3: d_in = b8 d_out = b8  <-- read
+
+Address 8d
+	1: d_in = 39 d_out = 39  <-- write then read
+	2: d_in = e5 d_out = 39  <-- write/read simultaneous
+	3: d_in = e5 d_out = e5  <-- read
+
+Address 8e
+	1: d_in = a1 d_out = a1  <-- write then read
+	2: d_in = 2b d_out = a1  <-- write/read simultaneous
+	3: d_in = 2b d_out = 2b  <-- read
+
+Address 8f
+	1: d_in = 81 d_out = 81  <-- write then read
+	2: d_in = c8 d_out = 81  <-- write/read simultaneous
+	3: d_in = c8 d_out = c8  <-- read
+
+Address 90
+	1: d_in = 27 d_out = 27  <-- write then read
+	2: d_in = a1 d_out = 27  <-- write/read simultaneous
+	3: d_in = a1 d_out = a1  <-- read
+
+Address 91
+	1: d_in = 1f d_out = 1f  <-- write then read
+	2: d_in = 04 d_out = 1f  <-- write/read simultaneous
+	3: d_in = 04 d_out = 04  <-- read
+
+Address 92
+	1: d_in = 58 d_out = 58  <-- write then read
+	2: d_in = 96 d_out = 58  <-- write/read simultaneous
+	3: d_in = 96 d_out = 96  <-- read
+
+Address 93
+	1: d_in = 14 d_out = 14  <-- write then read
+	2: d_in = 12 d_out = 14  <-- write/read simultaneous
+	3: d_in = 12 d_out = 12  <-- read
+
+Address 94
+	1: d_in = 96 d_out = 96  <-- write then read
+	2: d_in = b1 d_out = 96  <-- write/read simultaneous
+	3: d_in = b1 d_out = b1  <-- read
+
+Address 95
+	1: d_in = 55 d_out = 55  <-- write then read
+	2: d_in = ed d_out = 55  <-- write/read simultaneous
+	3: d_in = ed d_out = ed  <-- read
+
+Address 96
+	1: d_in = 2b d_out = 2b  <-- write then read
+	2: d_in = f5 d_out = 2b  <-- write/read simultaneous
+	3: d_in = f5 d_out = f5  <-- read
+
+Address 97
+	1: d_in = ad d_out = ad  <-- write then read
+	2: d_in = 27 d_out = ad  <-- write/read simultaneous
+	3: d_in = 27 d_out = 27  <-- read
+
+Address 98
+	1: d_in = 84 d_out = 84  <-- write then read
+	2: d_in = a7 d_out = 84  <-- write/read simultaneous
+	3: d_in = a7 d_out = a7  <-- read
+
+Address 99
+	1: d_in = e7 d_out = e7  <-- write then read
+	2: d_in = b9 d_out = e7  <-- write/read simultaneous
+	3: d_in = b9 d_out = b9  <-- read
+
+Address 9a
+	1: d_in = 49 d_out = 49  <-- write then read
+	2: d_in = db d_out = 49  <-- write/read simultaneous
+	3: d_in = db d_out = db  <-- read
+
+Address 9b
+	1: d_in = c9 d_out = c9  <-- write then read
+	2: d_in = 51 d_out = c9  <-- write/read simultaneous
+	3: d_in = 51 d_out = 51  <-- read
+
+Address 9c
+	1: d_in = a1 d_out = a1  <-- write then read
+	2: d_in = 2a d_out = a1  <-- write/read simultaneous
+	3: d_in = 2a d_out = 2a  <-- read
+
+Address 9d
+	1: d_in = fa d_out = fa  <-- write then read
+	2: d_in = 45 d_out = fa  <-- write/read simultaneous
+	3: d_in = 45 d_out = 45  <-- read
+
+Address 9e
+	1: d_in = 83 d_out = 83  <-- write then read
+	2: d_in = 7c d_out = 83  <-- write/read simultaneous
+	3: d_in = 7c d_out = 7c  <-- read
+
+Address 9f
+	1: d_in = 72 d_out = 72  <-- write then read
+	2: d_in = fe d_out = 72  <-- write/read simultaneous
+	3: d_in = fe d_out = fe  <-- read
+
+Address a0
+	1: d_in = 68 d_out = 68  <-- write then read
+	2: d_in = 6f d_out = 68  <-- write/read simultaneous
+	3: d_in = 6f d_out = 6f  <-- read
+
+Address a1
+	1: d_in = 86 d_out = 86  <-- write then read
+	2: d_in = f0 d_out = 86  <-- write/read simultaneous
+	3: d_in = f0 d_out = f0  <-- read
+
+Address a2
+	1: d_in = 38 d_out = 38  <-- write then read
+	2: d_in = 40 d_out = 38  <-- write/read simultaneous
+	3: d_in = 40 d_out = 40  <-- read
+
+Address a3
+	1: d_in = 28 d_out = 28  <-- write then read
+	2: d_in = f6 d_out = 28  <-- write/read simultaneous
+	3: d_in = f6 d_out = f6  <-- read
+
+Address a4
+	1: d_in = c5 d_out = c5  <-- write then read
+	2: d_in = c0 d_out = c5  <-- write/read simultaneous
+	3: d_in = c0 d_out = c0  <-- read
+
+Address a5
+	1: d_in = 74 d_out = 74  <-- write then read
+	2: d_in = 39 d_out = 74  <-- write/read simultaneous
+	3: d_in = 39 d_out = 39  <-- read
+
+Address a6
+	1: d_in = b0 d_out = b0  <-- write then read
+	2: d_in = 3c d_out = b0  <-- write/read simultaneous
+	3: d_in = 3c d_out = 3c  <-- read
+
+Address a7
+	1: d_in = 2a d_out = 2a  <-- write then read
+	2: d_in = 62 d_out = 2a  <-- write/read simultaneous
+	3: d_in = 62 d_out = 62  <-- read
+
+Address a8
+	1: d_in = 15 d_out = 15  <-- write then read
+	2: d_in = e1 d_out = 15  <-- write/read simultaneous
+	3: d_in = e1 d_out = e1  <-- read
+
+Address a9
+	1: d_in = 17 d_out = 17  <-- write then read
+	2: d_in = 43 d_out = 17  <-- write/read simultaneous
+	3: d_in = 43 d_out = 43  <-- read
+
+Address aa
+	1: d_in = c9 d_out = c9  <-- write then read
+	2: d_in = 86 d_out = c9  <-- write/read simultaneous
+	3: d_in = 86 d_out = 86  <-- read
+
+Address ab
+	1: d_in = 25 d_out = 25  <-- write then read
+	2: d_in = c1 d_out = 25  <-- write/read simultaneous
+	3: d_in = c1 d_out = c1  <-- read
+
+Address ac
+	1: d_in = 8d d_out = 8d  <-- write then read
+	2: d_in = 5a d_out = 8d  <-- write/read simultaneous
+	3: d_in = 5a d_out = 5a  <-- read
+
+Address ad
+	1: d_in = 07 d_out = 07  <-- write then read
+	2: d_in = 2c d_out = 07  <-- write/read simultaneous
+	3: d_in = 2c d_out = 2c  <-- read
+
+Address ae
+	1: d_in = 0c d_out = 0c  <-- write then read
+	2: d_in = 71 d_out = 0c  <-- write/read simultaneous
+	3: d_in = 71 d_out = 71  <-- read
+
+Address af
+	1: d_in = 3b d_out = 3b  <-- write then read
+	2: d_in = b6 d_out = 3b  <-- write/read simultaneous
+	3: d_in = b6 d_out = b6  <-- read
+
+Address b0
+	1: d_in = f7 d_out = f7  <-- write then read
+	2: d_in = 9e d_out = f7  <-- write/read simultaneous
+	3: d_in = 9e d_out = 9e  <-- read
+
+Address b1
+	1: d_in = 5c d_out = 5c  <-- write then read
+	2: d_in = 55 d_out = 5c  <-- write/read simultaneous
+	3: d_in = 55 d_out = 55  <-- read
+
+Address b2
+	1: d_in = 20 d_out = 20  <-- write then read
+	2: d_in = a0 d_out = 20  <-- write/read simultaneous
+	3: d_in = a0 d_out = a0  <-- read
+
+Address b3
+	1: d_in = 72 d_out = 72  <-- write then read
+	2: d_in = b4 d_out = 72  <-- write/read simultaneous
+	3: d_in = b4 d_out = b4  <-- read
+
+Address b4
+	1: d_in = dd d_out = dd  <-- write then read
+	2: d_in = 0d d_out = dd  <-- write/read simultaneous
+	3: d_in = 0d d_out = 0d  <-- read
+
+Address b5
+	1: d_in = 4b d_out = 4b  <-- write then read
+	2: d_in = 79 d_out = 4b  <-- write/read simultaneous
+	3: d_in = 79 d_out = 79  <-- read
+
+Address b6
+	1: d_in = 9e d_out = 9e  <-- write then read
+	2: d_in = fd d_out = 9e  <-- write/read simultaneous
+	3: d_in = fd d_out = fd  <-- read
+
+Address b7
+	1: d_in = 7b d_out = 7b  <-- write then read
+	2: d_in = 8f d_out = 7b  <-- write/read simultaneous
+	3: d_in = 8f d_out = 8f  <-- read
+
+Address b8
+	1: d_in = 03 d_out = 03  <-- write then read
+	2: d_in = e3 d_out = 03  <-- write/read simultaneous
+	3: d_in = e3 d_out = e3  <-- read
+
+Address b9
+	1: d_in = 1d d_out = 1d  <-- write then read
+	2: d_in = b1 d_out = 1d  <-- write/read simultaneous
+	3: d_in = b1 d_out = b1  <-- read
+
+Address ba
+	1: d_in = 44 d_out = 44  <-- write then read
+	2: d_in = 95 d_out = 44  <-- write/read simultaneous
+	3: d_in = 95 d_out = 95  <-- read
+
+Address bb
+	1: d_in = e0 d_out = e0  <-- write then read
+	2: d_in = ed d_out = e0  <-- write/read simultaneous
+	3: d_in = ed d_out = ed  <-- read
+
+Address bc
+	1: d_in = 52 d_out = 52  <-- write then read
+	2: d_in = f8 d_out = 52  <-- write/read simultaneous
+	3: d_in = f8 d_out = f8  <-- read
+
+Address bd
+	1: d_in = 8d d_out = 8d  <-- write then read
+	2: d_in = 52 d_out = 8d  <-- write/read simultaneous
+	3: d_in = 52 d_out = 52  <-- read
+
+Address be
+	1: d_in = 84 d_out = 84  <-- write then read
+	2: d_in = 46 d_out = 84  <-- write/read simultaneous
+	3: d_in = 46 d_out = 46  <-- read
+
+Address bf
+	1: d_in = 8c d_out = 8c  <-- write then read
+	2: d_in = 90 d_out = 8c  <-- write/read simultaneous
+	3: d_in = 90 d_out = 90  <-- read
+
+Address c0
+	1: d_in = 17 d_out = 17  <-- write then read
+	2: d_in = 6a d_out = 17  <-- write/read simultaneous
+	3: d_in = 6a d_out = 6a  <-- read
+
+Address c1
+	1: d_in = 84 d_out = 84  <-- write then read
+	2: d_in = aa d_out = 84  <-- write/read simultaneous
+	3: d_in = aa d_out = aa  <-- read
+
+Address c2
+	1: d_in = 7c d_out = 7c  <-- write then read
+	2: d_in = 60 d_out = 7c  <-- write/read simultaneous
+	3: d_in = 60 d_out = 60  <-- read
+
+Address c3
+	1: d_in = ba d_out = ba  <-- write then read
+	2: d_in = 8b d_out = ba  <-- write/read simultaneous
+	3: d_in = 8b d_out = 8b  <-- read
+
+Address c4
+	1: d_in = a6 d_out = a6  <-- write then read
+	2: d_in = 25 d_out = a6  <-- write/read simultaneous
+	3: d_in = 25 d_out = 25  <-- read
+
+Address c5
+	1: d_in = 32 d_out = 32  <-- write then read
+	2: d_in = a2 d_out = 32  <-- write/read simultaneous
+	3: d_in = a2 d_out = a2  <-- read
+
+Address c6
+	1: d_in = 49 d_out = 49  <-- write then read
+	2: d_in = 14 d_out = 49  <-- write/read simultaneous
+	3: d_in = 14 d_out = 14  <-- read
+
+Address c7
+	1: d_in = 3d d_out = 3d  <-- write then read
+	2: d_in = 4b d_out = 3d  <-- write/read simultaneous
+	3: d_in = 4b d_out = 4b  <-- read
+
+Address c8
+	1: d_in = 5c d_out = 5c  <-- write then read
+	2: d_in = 47 d_out = 5c  <-- write/read simultaneous
+	3: d_in = 47 d_out = 47  <-- read
+
+Address c9
+	1: d_in = 86 d_out = 86  <-- write then read
+	2: d_in = 39 d_out = 86  <-- write/read simultaneous
+	3: d_in = 39 d_out = 39  <-- read
+
+Address ca
+	1: d_in = b4 d_out = b4  <-- write then read
+	2: d_in = d0 d_out = b4  <-- write/read simultaneous
+	3: d_in = d0 d_out = d0  <-- read
+
+Address cb
+	1: d_in = 2c d_out = 2c  <-- write then read
+	2: d_in = 8c d_out = 2c  <-- write/read simultaneous
+	3: d_in = 8c d_out = 8c  <-- read
+
+Address cc
+	1: d_in = 07 d_out = 07  <-- write then read
+	2: d_in = 6a d_out = 07  <-- write/read simultaneous
+	3: d_in = 6a d_out = 6a  <-- read
+
+Address cd
+	1: d_in = 11 d_out = 11  <-- write then read
+	2: d_in = e8 d_out = 11  <-- write/read simultaneous
+	3: d_in = e8 d_out = e8  <-- read
+
+Address ce
+	1: d_in = 4b d_out = 4b  <-- write then read
+	2: d_in = 73 d_out = 4b  <-- write/read simultaneous
+	3: d_in = 73 d_out = 73  <-- read
+
+Address cf
+	1: d_in = ec d_out = ec  <-- write then read
+	2: d_in = 23 d_out = ec  <-- write/read simultaneous
+	3: d_in = 23 d_out = 23  <-- read
+
+Address d0
+	1: d_in = a4 d_out = a4  <-- write then read
+	2: d_in = c9 d_out = a4  <-- write/read simultaneous
+	3: d_in = c9 d_out = c9  <-- read
+
+Address d1
+	1: d_in = 39 d_out = 39  <-- write then read
+	2: d_in = df d_out = 39  <-- write/read simultaneous
+	3: d_in = df d_out = df  <-- read
+
+Address d2
+	1: d_in = d4 d_out = d4  <-- write then read
+	2: d_in = 67 d_out = d4  <-- write/read simultaneous
+	3: d_in = 67 d_out = 67  <-- read
+
+Address d3
+	1: d_in = 9d d_out = 9d  <-- write then read
+	2: d_in = b0 d_out = 9d  <-- write/read simultaneous
+	3: d_in = b0 d_out = b0  <-- read
+
+Address d4
+	1: d_in = 82 d_out = 82  <-- write then read
+	2: d_in = 49 d_out = 82  <-- write/read simultaneous
+	3: d_in = 49 d_out = 49  <-- read
+
+Address d5
+	1: d_in = d9 d_out = d9  <-- write then read
+	2: d_in = 20 d_out = d9  <-- write/read simultaneous
+	3: d_in = 20 d_out = 20  <-- read
+
+Address d6
+	1: d_in = 1c d_out = 1c  <-- write then read
+	2: d_in = 93 d_out = 1c  <-- write/read simultaneous
+	3: d_in = 93 d_out = 93  <-- read
+
+Address d7
+	1: d_in = e3 d_out = e3  <-- write then read
+	2: d_in = 2a d_out = e3  <-- write/read simultaneous
+	3: d_in = 2a d_out = 2a  <-- read
+
+Address d8
+	1: d_in = c8 d_out = c8  <-- write then read
+	2: d_in = 5d d_out = c8  <-- write/read simultaneous
+	3: d_in = 5d d_out = 5d  <-- read
+
+Address d9
+	1: d_in = 3a d_out = 3a  <-- write then read
+	2: d_in = 84 d_out = 3a  <-- write/read simultaneous
+	3: d_in = 84 d_out = 84  <-- read
+
+Address da
+	1: d_in = 2b d_out = 2b  <-- write then read
+	2: d_in = 39 d_out = 2b  <-- write/read simultaneous
+	3: d_in = 39 d_out = 39  <-- read
+
+Address db
+	1: d_in = 12 d_out = 12  <-- write then read
+	2: d_in = 52 d_out = 12  <-- write/read simultaneous
+	3: d_in = 52 d_out = 52  <-- read
+
+Address dc
+	1: d_in = 59 d_out = 59  <-- write then read
+	2: d_in = d0 d_out = 59  <-- write/read simultaneous
+	3: d_in = d0 d_out = d0  <-- read
+
+Address dd
+	1: d_in = 6e d_out = 6e  <-- write then read
+	2: d_in = 97 d_out = 6e  <-- write/read simultaneous
+	3: d_in = 97 d_out = 97  <-- read
+
+Address de
+	1: d_in = db d_out = db  <-- write then read
+	2: d_in = a6 d_out = db  <-- write/read simultaneous
+	3: d_in = a6 d_out = a6  <-- read
+
+Address df
+	1: d_in = bb d_out = bb  <-- write then read
+	2: d_in = 00 d_out = bb  <-- write/read simultaneous
+	3: d_in = 00 d_out = 00  <-- read
+
+Address e0
+	1: d_in = 0f d_out = 0f  <-- write then read
+	2: d_in = 69 d_out = 0f  <-- write/read simultaneous
+	3: d_in = 69 d_out = 69  <-- read
+
+Address e1
+	1: d_in = 0c d_out = 0c  <-- write then read
+	2: d_in = 59 d_out = 0c  <-- write/read simultaneous
+	3: d_in = 59 d_out = 59  <-- read
+
+Address e2
+	1: d_in = c5 d_out = c5  <-- write then read
+	2: d_in = cf d_out = c5  <-- write/read simultaneous
+	3: d_in = cf d_out = cf  <-- read
+
+Address e3
+	1: d_in = 90 d_out = 90  <-- write then read
+	2: d_in = 51 d_out = 90  <-- write/read simultaneous
+	3: d_in = 51 d_out = 51  <-- read
+
+Address e4
+	1: d_in = 69 d_out = 69  <-- write then read
+	2: d_in = 77 d_out = 69  <-- write/read simultaneous
+	3: d_in = 77 d_out = 77  <-- read
+
+Address e5
+	1: d_in = 4a d_out = 4a  <-- write then read
+	2: d_in = d8 d_out = 4a  <-- write/read simultaneous
+	3: d_in = d8 d_out = d8  <-- read
+
+Address e6
+	1: d_in = 9b d_out = 9b  <-- write then read
+	2: d_in = c4 d_out = 9b  <-- write/read simultaneous
+	3: d_in = c4 d_out = c4  <-- read
+
+Address e7
+	1: d_in = b8 d_out = b8  <-- write then read
+	2: d_in = b7 d_out = b8  <-- write/read simultaneous
+	3: d_in = b7 d_out = b7  <-- read
+
+Address e8
+	1: d_in = 86 d_out = 86  <-- write then read
+	2: d_in = 30 d_out = 86  <-- write/read simultaneous
+	3: d_in = 30 d_out = 30  <-- read
+
+Address e9
+	1: d_in = 77 d_out = 77  <-- write then read
+	2: d_in = b5 d_out = 77  <-- write/read simultaneous
+	3: d_in = b5 d_out = b5  <-- read
+
+Address ea
+	1: d_in = d4 d_out = d4  <-- write then read
+	2: d_in = 07 d_out = d4  <-- write/read simultaneous
+	3: d_in = 07 d_out = 07  <-- read
+
+Address eb
+	1: d_in = 76 d_out = 76  <-- write then read
+	2: d_in = e9 d_out = 76  <-- write/read simultaneous
+	3: d_in = e9 d_out = e9  <-- read
+
+Address ec
+	1: d_in = 8b d_out = 8b  <-- write then read
+	2: d_in = 01 d_out = 8b  <-- write/read simultaneous
+	3: d_in = 01 d_out = 01  <-- read
+
+Address ed
+	1: d_in = db d_out = db  <-- write then read
+	2: d_in = 80 d_out = db  <-- write/read simultaneous
+	3: d_in = 80 d_out = 80  <-- read
+
+Address ee
+	1: d_in = c2 d_out = c2  <-- write then read
+	2: d_in = c5 d_out = c2  <-- write/read simultaneous
+	3: d_in = c5 d_out = c5  <-- read
+
+Address ef
+	1: d_in = 30 d_out = 30  <-- write then read
+	2: d_in = af d_out = 30  <-- write/read simultaneous
+	3: d_in = af d_out = af  <-- read
+
+Address f0
+	1: d_in = 66 d_out = 66  <-- write then read
+	2: d_in = af d_out = 66  <-- write/read simultaneous
+	3: d_in = af d_out = af  <-- read
+
+Address f1
+	1: d_in = e9 d_out = e9  <-- write then read
+	2: d_in = f8 d_out = e9  <-- write/read simultaneous
+	3: d_in = f8 d_out = f8  <-- read
+
+Address f2
+	1: d_in = 06 d_out = 06  <-- write then read
+	2: d_in = ef d_out = 06  <-- write/read simultaneous
+	3: d_in = ef d_out = ef  <-- read
+
+Address f3
+	1: d_in = e1 d_out = e1  <-- write then read
+	2: d_in = 95 d_out = e1  <-- write/read simultaneous
+	3: d_in = 95 d_out = 95  <-- read
+
+Address f4
+	1: d_in = ee d_out = ee  <-- write then read
+	2: d_in = 60 d_out = ee  <-- write/read simultaneous
+	3: d_in = 60 d_out = 60  <-- read
+
+Address f5
+	1: d_in = e5 d_out = e5  <-- write then read
+	2: d_in = 28 d_out = e5  <-- write/read simultaneous
+	3: d_in = 28 d_out = 28  <-- read
+
+Address f6
+	1: d_in = 64 d_out = 64  <-- write then read
+	2: d_in = 29 d_out = 64  <-- write/read simultaneous
+	3: d_in = 29 d_out = 29  <-- read
+
+Address f7
+	1: d_in = e1 d_out = e1  <-- write then read
+	2: d_in = 77 d_out = e1  <-- write/read simultaneous
+	3: d_in = 77 d_out = 77  <-- read
+
+Address f8
+	1: d_in = 6e d_out = 6e  <-- write then read
+	2: d_in = 81 d_out = 6e  <-- write/read simultaneous
+	3: d_in = 81 d_out = 81  <-- read
+
+Address f9
+	1: d_in = d5 d_out = d5  <-- write then read
+	2: d_in = 68 d_out = d5  <-- write/read simultaneous
+	3: d_in = 68 d_out = 68  <-- read
+
+Address fa
+	1: d_in = f0 d_out = f0  <-- write then read
+	2: d_in = aa d_out = f0  <-- write/read simultaneous
+	3: d_in = aa d_out = aa  <-- read
+
+Address fb
+	1: d_in = 0f d_out = 0f  <-- write then read
+	2: d_in = f1 d_out = 0f  <-- write/read simultaneous
+	3: d_in = f1 d_out = f1  <-- read
+
+Address fc
+	1: d_in = 7d d_out = 7d  <-- write then read
+	2: d_in = 8e d_out = 7d  <-- write/read simultaneous
+	3: d_in = 8e d_out = 8e  <-- read
+
+Address fd
+	1: d_in = e2 d_out = e2  <-- write then read
+	2: d_in = 3c d_out = e2  <-- write/read simultaneous
+	3: d_in = 3c d_out = 3c  <-- read
+
+Address fe
+	1: d_in = a9 d_out = a9  <-- write then read
+	2: d_in = ef d_out = a9  <-- write/read simultaneous
+	3: d_in = ef d_out = ef  <-- read
+
+Address ff
+	1: d_in = 5b d_out = 5b  <-- write then read
+	2: d_in = af d_out = 5b  <-- write/read simultaneous
+	3: d_in = af d_out = af  <-- read
+

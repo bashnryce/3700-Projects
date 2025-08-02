@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/clock_divider.v,1744768855,verilog,,C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/testbench.v,,clock_divider,,,,,,,,
+C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/testbench.v,1736807307,verilog,,C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/top.v,,testbench,,,,,,,,
+C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/top.v,1744769323,verilog,,C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/uart_tx.v,,top,,,,,,,,
+C:/Git_Clones/3700/2_rtl/2_communication/optional/3_UART_TX/src/uart_tx.v,1744769433,verilog,,,,uart_tx,,,,,,,,

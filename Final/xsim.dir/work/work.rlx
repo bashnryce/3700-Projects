@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Git_Clones/3700/Final/src/ascii.v,1745351698,verilog,,C:/Git_Clones/3700/Final/src/clock_divider.v,,ascii,,,,,,,,
+C:/Git_Clones/3700/Final/src/clock_divider.v,1744768855,verilog,,C:/Git_Clones/3700/Final/src/fifo.v,,clock_divider,,,,,,,,
+C:/Git_Clones/3700/Final/src/fifo.v,1745361125,verilog,,C:/Git_Clones/3700/Final/src/lsfr.v,,fifo,,,,,,,,
+C:/Git_Clones/3700/Final/src/lsfr.v,1744833297,verilog,,C:/Git_Clones/3700/Final/src/testbench.v,,lfsr,,,,,,,,
+C:/Git_Clones/3700/Final/src/testbench.v,1745361740,verilog,,C:/Git_Clones/3700/Final/src/top.v,,testbench,,,,,,,,
+C:/Git_Clones/3700/Final/src/top.v,1745362494,verilog,,C:/Git_Clones/3700/Final/src/uart_tx.v,,top,,,,,,,,
+C:/Git_Clones/3700/Final/src/uart_tx.v,1744769433,verilog,,,,uart_tx,,,,,,,,

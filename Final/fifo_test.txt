@@ -1,0 +1,44 @@
+============== PUSH DATA IN ===============
+          2 in_data: 129 tx_rdy done:0 count: 0 front: 0 back: 0
+         12 in_data:   9 tx_rdy done:0 count: 1 front: 1 back: 0
+         22 in_data:  99 tx_rdy done:0 count: 2 front: 2 back: 0
+         32 in_data:  13 tx_rdy done:0 count: 3 front: 3 back: 0
+         42 in_data: 141 tx_rdy done:0 count: 4 front: 4 back: 0
+         52 in_data: 101 tx_rdy done:0 count: 5 front: 5 back: 0
+         62 in_data:  18 tx_rdy done:0 count: 6 front: 6 back: 0
+         72 in_data:   1 tx_rdy done:0 count: 7 front: 7 back: 0
+         82 in_data:  13 tx_rdy done:0 count: 8 front: 8 back: 0
+         92 in_data: 118 tx_rdy done:0 count: 9 front: 9 back: 0
+        102 in_data:  61 tx_rdy done:0 count:10 front:10 back: 0
+        112 in_data: 237 tx_rdy done:0 count:11 front:11 back: 0
+        122 in_data: 140 tx_rdy done:0 count:12 front:12 back: 0
+        132 in_data: 249 tx_rdy done:0 count:13 front:13 back: 0
+        142 in_data: 198 tx_rdy done:0 count:14 front:14 back: 0
+        152 in_data: 197 tx_rdy done:0 count:15 front:15 back: 0
+        162 in_data: 170 tx_rdy done:0 count:16 front:16 back: 0
+        172 in_data: 229 tx_rdy done:0 count:17 front:17 back: 0
+        182 in_data: 119 tx_rdy done:0 count:18 front:18 back: 0
+        192 in_data:  18 tx_rdy done:0 count:19 front:19 back: 0
+        194 buffer full
+============== PULL DATA OUT ===============
+        202 out_data: 129 rx_rdy:1 done count:20 front: 0 back: 0
+        212 out_data:   9 rx_rdy:1 done count:19 front: 0 back: 1
+        222 out_data:  99 rx_rdy:1 done count:18 front: 0 back: 2
+        232 out_data:  13 rx_rdy:1 done count:17 front: 0 back: 3
+        242 out_data: 141 rx_rdy:1 done count:16 front: 0 back: 4
+        252 out_data: 101 rx_rdy:1 done count:15 front: 0 back: 5
+        262 out_data:  18 rx_rdy:1 done count:14 front: 0 back: 6
+        272 out_data:   1 rx_rdy:1 done count:13 front: 0 back: 7
+        282 out_data:  13 rx_rdy:1 done count:12 front: 0 back: 8
+        292 out_data: 118 rx_rdy:1 done count:11 front: 0 back: 9
+        302 out_data:  61 rx_rdy:1 done count:10 front: 0 back:10
+        312 out_data: 237 rx_rdy:1 done count: 9 front: 0 back:11
+        322 out_data: 140 rx_rdy:1 done count: 8 front: 0 back:12
+        332 out_data: 249 rx_rdy:1 done count: 7 front: 0 back:13
+        342 out_data: 198 rx_rdy:1 done count: 6 front: 0 back:14
+        352 out_data: 197 rx_rdy:1 done count: 5 front: 0 back:15
+        362 out_data: 170 rx_rdy:1 done count: 4 front: 0 back:16
+        372 out_data: 229 rx_rdy:1 done count: 3 front: 0 back:17
+        382 out_data: 119 rx_rdy:1 done count: 2 front: 0 back:18
+        392 out_data:  18 rx_rdy:1 done count: 1 front: 0 back:19
+        394 buffer empty

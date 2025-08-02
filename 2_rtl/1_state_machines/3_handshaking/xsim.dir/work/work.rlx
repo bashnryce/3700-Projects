@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/race_observer.v,1741657570,verilog,,C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/race_official.v,,race_observer,,,,,,,,
+C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/race_official.v,1741657760,verilog,,C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/random_timer.v,,race_official,,,,,,,,
+C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/random_timer.v,1741656262,verilog,,C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/testbench.v,,random_timer,,,,,,,,
+C:/Git_Clones/3700/2_rtl/1_state_machines/3_handshaking/src/testbench.v,1741657837,verilog,,,,testbench,,,,,,,,

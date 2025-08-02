@@ -1,0 +1,5 @@
+Start bit. TX=00010110. Stop bit. Got 68h ('h')
+Start bit. TX=10100110. Stop bit. Got 65h ('e')
+Start bit. TX=00110110. Stop bit. Got 6ch ('l')
+Start bit. TX=00110110. Stop bit. Got 6ch ('l')
+Start bit. TX=11110110. Stop bit. Got 6fh ('o')

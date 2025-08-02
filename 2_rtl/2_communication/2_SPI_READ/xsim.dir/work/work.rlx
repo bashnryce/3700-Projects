@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/sim_spi_peripheral.v,1736807307,verilog,,C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/simpleSPI.v,,sim_spi_peripheral,,,,,,,,
+C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/simpleSPI.v,1741666315,verilog,,C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/testbench.v,,simpleSPI,,,,,,,,
+C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/testbench.v,1741669305,verilog,,C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/top.v,,testbench,,,,,,,,
+C:/Git_Clones/3700/2_rtl/2_communication/2_SPI_READ/src/top.v,1741669079,verilog,,,,top,,,,,,,,

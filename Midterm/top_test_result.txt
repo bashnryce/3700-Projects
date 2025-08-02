@@ -1,0 +1,157 @@
+clk:       300001	col: zzz0	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: x
+clk:       600002	col: zz0z	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: x
+clk:       900003	col: z0zz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: x
+clk:      1200004	col: 0zzz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: x
+clk:      1500005	col: zzz0	row: 1110	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: x
+clk:      1500009	col: zz0z	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 1	Set N: 665
+clk:      1501341	col: zz0z	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665	Calc N: 665
+clk:      1800006	col: zz0z	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665
+clk:      1841001	col: z0zz	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 1	Set N: 665
+clk:      1842333	col: z0zz	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665	Calc N: 665
+clk:      2100007	col: z0zz	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665
+clk:      2181993	col: 0zzz	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 1	Set N: 665
+clk:      2183325	col: 0zzz	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665	Calc N: 665
+clk:      2400008	col: 0zzz	row: 1111	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665
+clk:      2522985	col: zzz0	row: 1101	keys: 0000000000000010	btn(state): 2	AIN: 1	Set N: 665
+clk:      2524317	col: zzz0	row: 1101	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665	Calc N: 665
+clk:      2700009	col: zzz0	row: 1101	keys: 0000000000000010	btn(state): 2	AIN: 0	Set N: 665
+clk:      2822768	col: zz0z	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 1	Set N: 498
+clk:      2823766	col: zz0z	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498	Calc N: 498
+clk:      3000010	col: zz0z	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498
+clk:      3078256	col: z0zz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 1	Set N: 498
+clk:      3079254	col: z0zz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498	Calc N: 498
+clk:      3300011	col: z0zz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498
+clk:      3333744	col: 0zzz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 1	Set N: 498
+clk:      3334742	col: 0zzz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498	Calc N: 498
+clk:      3589232	col: 0zzz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 1	Set N: 498
+clk:      3590230	col: 0zzz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498	Calc N: 498
+clk:      3600012	col: 0zzz	row: 1111	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498
+clk:      3844720	col: zzz0	row: 1011	keys: 0000000000010000	btn(state): 5	AIN: 1	Set N: 498
+clk:      3845718	col: zzz0	row: 1011	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498	Calc N: 498
+clk:      3900013	col: zzz0	row: 1011	keys: 0000000000010000	btn(state): 5	AIN: 0	Set N: 498
+clk:      4049992	col: zz0z	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 1	Set N: 373
+clk:      4050740	col: zz0z	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373	Calc N: 373
+clk:      4200014	col: zz0z	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373
+clk:      4241480	col: z0zz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 1	Set N: 373
+clk:      4242228	col: z0zz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373	Calc N: 373
+clk:      4432968	col: z0zz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 1	Set N: 373
+clk:      4433716	col: z0zz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373	Calc N: 373
+clk:      4500015	col: z0zz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373
+clk:      4624456	col: 0zzz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 1	Set N: 373
+clk:      4625204	col: 0zzz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373	Calc N: 373
+clk:      4800016	col: 0zzz	row: 1111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373
+clk:      4815944	col: zzz0	row: 0111	keys: 0000000010000000	btn(state): 8	AIN: 1	Set N: 373
+clk:      4816692	col: zzz0	row: 0111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373	Calc N: 373
+clk:      5007432	col: zzz0	row: 0111	keys: 0000000010000000	btn(state): 8	AIN: 1	Set N: 373
+clk:      5008180	col: zzz0	row: 0111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373	Calc N: 373
+clk:      5100017	col: zzz0	row: 0111	keys: 0000000010000000	btn(state): 8	AIN: 0	Set N: 373
+clk:      5298030	col: zz0z	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 1	Set N: 747
+clk:      5299526	col: zz0z	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747	Calc N: 747
+clk:      5400018	col: zz0z	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747
+clk:      5681006	col: z0zz	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 1	Set N: 747
+clk:      5682502	col: z0zz	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747	Calc N: 747
+clk:      5700019	col: z0zz	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747
+clk:      6000020	col: 0zzz	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747
+clk:      6063982	col: zzz0	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 1	Set N: 747
+clk:      6065478	col: zzz0	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747	Calc N: 747
+clk:      6300021	col: zzz0	row: 1111	keys: 0000000000000001	btn(state): 1	AIN: 0	Set N: 747
+clk:      6600022	col: zz0z	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 747
+clk:      6900023	col: z0zz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 747
+clk:      7200024	col: 0zzz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 747
+clk:      7500025	col: zzz0	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 747
+clk:      7800026	col: zz0z	row: 1110	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 747
+clk:      7941996	col: z0zz	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 1	Set N: 593
+clk:      7943184	col: z0zz	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593	Calc N: 593
+clk:      8100027	col: z0zz	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593
+clk:      8246124	col: 0zzz	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 1	Set N: 593
+clk:      8247312	col: 0zzz	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593	Calc N: 593
+clk:      8400028	col: 0zzz	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593
+clk:      8550252	col: zzz0	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 1	Set N: 593
+clk:      8551440	col: zzz0	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593	Calc N: 593
+clk:      8700029	col: zzz0	row: 1111	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593
+clk:      8854380	col: zz0z	row: 1101	keys: 0000000000000100	btn(state): 3	AIN: 1	Set N: 593
+clk:      8855568	col: zz0z	row: 1101	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593	Calc N: 593
+clk:      9000030	col: zz0z	row: 1101	keys: 0000000000000100	btn(state): 3	AIN: 0	Set N: 593
+clk:      9118725	col: z0zz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 1	Set N: 444
+clk:      9119615	col: z0zz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444	Calc N: 444
+clk:      9300031	col: z0zz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444
+clk:      9346565	col: 0zzz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 1	Set N: 444
+clk:      9347455	col: 0zzz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444	Calc N: 444
+clk:      9574405	col: 0zzz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 1	Set N: 444
+clk:      9575295	col: 0zzz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444	Calc N: 444
+clk:      9600032	col: 0zzz	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444
+clk:      9802245	col: zzz0	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 1	Set N: 444
+clk:      9803135	col: zzz0	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444	Calc N: 444
+clk:      9900033	col: zzz0	row: 1111	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444
+clk:     10030085	col: zz0z	row: 1011	keys: 0000000000100000	btn(state): 6	AIN: 1	Set N: 444
+clk:     10030975	col: zz0z	row: 1011	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444	Calc N: 444
+clk:     10200034	col: zz0z	row: 1011	keys: 0000000000100000	btn(state): 6	AIN: 0	Set N: 444
+clk:     10500035	col: z0zz	row: 1111	keys: 0000000100000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     10800036	col: 0zzz	row: 1111	keys: 0000000100000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     11100037	col: zzz0	row: 1111	keys: 0000000100000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     11400038	col: zz0z	row: 0111	keys: 0000000100000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     11700039	col: z0zz	row: 1111	keys: 1000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     12000040	col: 0zzz	row: 1111	keys: 1000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     12300041	col: zzz0	row: 1111	keys: 1000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     12600042	col: zz0z	row: 1111	keys: 1000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     12900043	col: z0zz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     13200044	col: 0zzz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     13500045	col: zzz0	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     13800046	col: zz0z	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     14100047	col: z0zz	row: 1110	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 444
+clk:     14139370	col: 0zzz	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 1	Set N: 559
+clk:     14140490	col: 0zzz	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559	Calc N: 559
+clk:     14400048	col: 0zzz	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559
+clk:     14426090	col: zzz0	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 1	Set N: 559
+clk:     14427210	col: zzz0	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559	Calc N: 559
+clk:     14700049	col: zzz0	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559
+clk:     14712810	col: zz0z	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 1	Set N: 559
+clk:     14713930	col: zz0z	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559	Calc N: 559
+clk:     14999530	col: zz0z	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 1	Set N: 559
+clk:     15000050	col: zz0z	row: 1111	keys: 0000000000001000	btn(state): 4	AIN: 1	Set N: 559
+clk:     15000650	col: z0zz	row: 1101	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559	Calc N: 559
+clk:     15286250	col: z0zz	row: 1101	keys: 0000000000001000	btn(state): 4	AIN: 1	Set N: 559
+clk:     15287370	col: z0zz	row: 1101	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559	Calc N: 559
+clk:     15300051	col: z0zz	row: 1101	keys: 0000000000001000	btn(state): 4	AIN: 0	Set N: 559
+clk:     15492938	col: 0zzz	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 1	Set N: 395
+clk:     15493730	col: 0zzz	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395	Calc N: 395
+clk:     15600052	col: 0zzz	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395
+clk:     15695690	col: zzz0	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 1	Set N: 395
+clk:     15696482	col: zzz0	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395	Calc N: 395
+clk:     15898442	col: zzz0	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 1	Set N: 395
+clk:     15899234	col: zzz0	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395	Calc N: 395
+clk:     15900053	col: zzz0	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395
+clk:     16101194	col: zz0z	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 1	Set N: 395
+clk:     16101986	col: zz0z	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395	Calc N: 395
+clk:     16200054	col: zz0z	row: 1111	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395
+clk:     16303946	col: z0zz	row: 1011	keys: 0000000001000000	btn(state): 7	AIN: 1	Set N: 395
+clk:     16304738	col: z0zz	row: 1011	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395	Calc N: 395
+clk:     16500055	col: z0zz	row: 1011	keys: 0000000001000000	btn(state): 7	AIN: 0	Set N: 395
+clk:     16800056	col: 0zzz	row: 1111	keys: 0000001000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     17100057	col: zzz0	row: 1111	keys: 0000001000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     17400058	col: zz0z	row: 1111	keys: 0000001000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     17700059	col: z0zz	row: 0111	keys: 0000001000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     18000060	col: 0zzz	row: 1111	keys: 0100000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     18300061	col: zzz0	row: 1111	keys: 0100000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     18600062	col: zz0z	row: 1111	keys: 0100000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     18900063	col: z0zz	row: 1111	keys: 0100000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     19200064	col: 0zzz	row: 1110	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     19500065	col: zzz0	row: 1111	keys: 0000010000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     19800066	col: zz0z	row: 1111	keys: 0000010000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     20100067	col: z0zz	row: 1111	keys: 0000010000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     20400068	col: 0zzz	row: 1101	keys: 0000010000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     20700069	col: zzz0	row: 1111	keys: 0000100000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     21000070	col: zz0z	row: 1111	keys: 0000100000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     21300071	col: z0zz	row: 1111	keys: 0000100000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     21600072	col: 0zzz	row: 1011	keys: 0000100000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     21900073	col: zzz0	row: 1111	keys: 0001000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     22200074	col: zz0z	row: 1111	keys: 0001000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     22500075	col: z0zz	row: 1111	keys: 0001000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     22800076	col: 0zzz	row: 0111	keys: 0001000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     23100077	col: zzz0	row: 1111	keys: 0010000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     23400078	col: zz0z	row: 1111	keys: 0010000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     23700079	col: z0zz	row: 1111	keys: 0010000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     24000080	col: 0zzz	row: 1111	keys: 0010000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     24300081	col: zzz0	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     24600082	col: zz0z	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 395
+clk:     24900083	col: z0zz	row: 1111	keys: 0000000000000000	btn(state): 0	AIN: 0	Set N: 395

@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Git_Clones/3700/Midterm/src/audio_top.v,1742992985,verilog,,C:/Git_Clones/3700/Midterm/src/clock_divider.v,,audio_top,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/clock_divider.v,1740429911,verilog,,C:/Git_Clones/3700/Midterm/src/debouncer.v,,clock_divider,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/debouncer.v,1740433345,verilog,,C:/Git_Clones/3700/Midterm/src/keypad.v,,debouncer,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/keypad.v,1740430590,verilog,,C:/Git_Clones/3700/Midterm/src/pwm_audio.v,,keypad,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/pwm_audio.v,1742991114,verilog,,C:/Git_Clones/3700/Midterm/src/tcounter.v,,pwm_audio,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/tcounter.v,1736807307,verilog,,C:/Git_Clones/3700/Midterm/src/testbench.v,,tcounter,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/testbench.v,1743288216,verilog,,C:/Git_Clones/3700/Midterm/src/top.v,,testbench,,,,,,,,
+C:/Git_Clones/3700/Midterm/src/top.v,1743028081,verilog,,,,top,,,,,,,,

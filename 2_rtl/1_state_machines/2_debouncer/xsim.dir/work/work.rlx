@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/debouncer.v,1740433345,verilog,,C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/tcounter.v,,debouncer,,,,,,,,
+C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/tcounter.v,1736807307,verilog,,C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/testbench.v,,tcounter,,,,,,,,
+C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/testbench.v,1736807307,verilog,,C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/top.v,,testbench,,,,,,,,
+C:/Git_Clones/3700/2_rtl/1_state_machines/2_debouncer/src/top.v,1740433553,verilog,,,,top,,,,,,,,
